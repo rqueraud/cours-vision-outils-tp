@@ -1,0 +1,5 @@
+.vscode/
+.ipynb_checkpoints/
+local/
+2-pytorch/data/
+cours/data/
