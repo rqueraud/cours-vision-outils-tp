@@ -30,7 +30,7 @@ PyTorch permet d'implémenter des réseaux de neurones. Ce TP en 3 parties va pe
   - Implémenter une structure avec un Linear Layer pour calculer une regression linéaire
   - Observer une structure de classifier et l'appliquer sur le Dataset d'images MNIST.
 
-## TP3 : AWS
+## TP3 : AWS
 
 AWS propose toute une suite d'outils pour l'intelligence artificielle. Parmi elle, AWS Rekognition est la partie chargée de l'analyse d'images et de vidéos.
 
