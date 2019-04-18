@@ -8,7 +8,7 @@ Vous devez disposer, à minima, d'un environnement `python 3.6` avec `pipenv`. V
 
 ```bash
 pipenv install  # Installe les dépendances
-pipenv run jupyer-notebook .
+pipenv run jupyter-notebook .
 ```
 
 Une fois lancé, les exercices sont sous la forme de notebooks.
